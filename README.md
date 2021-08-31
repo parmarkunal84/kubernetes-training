@@ -133,7 +133,7 @@ To watch the status of system pods
     kubectl get pods --all-namespaces
 
 
-# Step 11: Set environment variables on worker nodes
+# Step 12: Set environment variables on worker nodes
 Perform this step on all the worker nodes
 
     mkdir -p $HOME/.kube
